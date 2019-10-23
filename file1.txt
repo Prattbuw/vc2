@@ -2,3 +2,5 @@ test file
 This is the second line.
 Actuall the second line
 This is the fifth line
+six
+seven
