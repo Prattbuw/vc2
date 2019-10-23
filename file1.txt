@@ -1,4 +1,7 @@
 test file
 This is the second line.
+<<<<<<< HEAD
 Actuall the second line
 This is the fifth line
+=======
+>>>>>>> 824faead1f9cf279bfe0008244c1cc4ac973324c
